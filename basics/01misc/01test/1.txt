@@ -1,0 +1,3 @@
+
+C:\Users\123\go\src\01misc\01test>go run main.go  
+Hello  world!!Helol  world!!                                      
