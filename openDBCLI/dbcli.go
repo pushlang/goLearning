@@ -19,7 +19,7 @@ var dsn = "user=postgres password=12481 dbname=pushover sslmode=disable"
 func main() {
 	//id := flag.Int64("id", 0, "person ID to find")
 	//dsn := flag.String("dsn", os.Getenv("DSN"), "connection data source name")
-	flag.Parse()
+	//flag.Parse()
 
 	if len(dsn) == 0 {
 		log.Fatal("missing dsn flag")
